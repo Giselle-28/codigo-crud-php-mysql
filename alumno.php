@@ -37,8 +37,8 @@
 
     <div class="container mt-5">
         <div class="row">
-        <div class="col-md-3">
-                            <h1>Ingrese datos</h1>
+        <div class="col-md-4">
+                            <h1>Ingrese los datos</h1>
                                 <form action="insertar.php" method="POST">
 
                                     <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="cod estudiante">
